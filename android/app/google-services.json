@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861567030794",
+    "firebase_url": "https://nidtolk.firebaseio.com",
+    "project_id": "nidtolk",
+    "storage_bucket": "nidtolk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861567030794:android:0d7cf7170dd65183d2b1f3",
+        "android_client_info": {
+          "package_name": "com.example.needtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861567030794-0fn743a8tn1iho8e8q7fj6q90d0mc79u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.needtalk",
+            "certificate_hash": "8c7ee914bbf908fbc5c2e09c3c19a405bf6804ac"
+          }
+        },
+        {
+          "client_id": "861567030794-jdk1lovpfdh23a0pie9dg17093m9hj45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtIcvTOkBjTHiXZm4WyFppaIQi8CuGtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861567030794-jdk1lovpfdh23a0pie9dg17093m9hj45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
